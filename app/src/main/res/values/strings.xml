@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Shopping Cart</string>
+    <string name="title_home">Home</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_order">Orders</string>
+    <string name="title_order_details">Order Detail</string>
+    <string name="title_checkout">Checkout</string>
+    <string name="your_shopping_cart_is_empty">Your shopping cart is empty</string>
+
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    <string name="place_order">Place Order</string>
+
+    <string name="number_of_items">Number of Items</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="total">Total</string>
+    <string name="fees">Delivery Fee</string>
+    <string name="taxes">Taxes</string>
+
+    <string name="checkout">Checkout</string>
+    <string name="email">Email</string>
+    <string name="orderId">Order #</string>
+    <string name="customerId">Customer #</string>
+
+    <string name="free">FREE</string>
+
+</resources>
